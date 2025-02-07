@@ -13,3 +13,9 @@ Este é um pequeno sistema de controle de estoque feito em Java, utilizando conc
 - Java
 - Conceitos de POO (Classes, Objetos, Encapsulamento)
 - Scanner para entrada de dados
+
+## 📌 Como executar o projeto?
+1. Clone este repositório:
+   ```bash
+   git clone
+https://github.com/Rodrigocodee/gerenciador.git
